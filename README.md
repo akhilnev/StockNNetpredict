@@ -1,6 +1,6 @@
 # StockNNetpredict
 
-![Stock Prediction](./Microsoft_pred.png)
+![Stock Prediction](./Microsoft_Pred.png)
 
 
 
