@@ -1,6 +1,6 @@
 # StockNNetpredict
 
-![Stock Prediction](./images/x.png)
+![Stock Prediction](./"Screen Shot 2023-11-15 at 6.47.24 PM.png")
 
 ## Overview
 This project leverages the power of a Long Short-Term Memory (LSTM) neural network implemented in TensorFlow and Keras to predict stock prices. The primary objective is to train a model capable of forecasting future stock prices based on historical trends.
