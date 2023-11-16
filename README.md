@@ -1,7 +1,7 @@
 # StockNNetpredict
 
 ![Stock Prediction](./Microsoft_pred.png)
-![Stock Prediction](./Losses_Micorosoft.png)
+
 
 
 ## Overview
