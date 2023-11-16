@@ -1,6 +1,8 @@
 # StockNNetpredict
 
-![Stock Prediction](./Apple_pred.png)
+![Stock Prediction](./Microsoft_pred.png)
+![Stock Prediction](./Losses_Micorosoft.png)
+
 
 ## Overview
 This project leverages the power of a Long Short-Term Memory (LSTM) neural network implemented in TensorFlow and Keras to predict stock prices. The primary objective is to train a model capable of forecasting future stock prices based on historical trends.
@@ -25,3 +27,12 @@ Dive into the visual narrative of actual and predicted stock prices—a mesmeriz
 
 ## Note
 This stock prediction initiative is a holistic pursuit, not tailored to a specific company. The README underlines an unwavering commitment to refining model architecture and exploring avenues to boost prediction accuracy.
+
+## Other results with Plotted losses include:
+
+![Stock Prediction](./Apple_pred.png)
+
+![Stock Prediction](./Helocorp_pred.png)
+
+
+
