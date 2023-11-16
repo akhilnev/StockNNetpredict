@@ -3,7 +3,6 @@
 ![Stock Prediction](./Microsoft_Pred.png)
 
 
-
 ## Overview
 This project leverages the power of a Long Short-Term Memory (LSTM) neural network implemented in TensorFlow and Keras to predict stock prices. The primary objective is to train a model capable of forecasting future stock prices based on historical trends.
 
@@ -34,5 +33,6 @@ This stock prediction initiative is a holistic pursuit, not tailored to a specif
 
 ![Stock Prediction](./Helocorp_pred.png)
 
+![Stock Prediction](./Losses_Micorosoft.png)
 
 
